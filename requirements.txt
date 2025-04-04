@@ -1,0 +1,6 @@
+python-dotenv>=1.0.0
+litestar=2.0.0
+litestar-granian>=0.0.0
+litestar-asyncpg>=0.0.0
+advanced-alchemy>=0.20.0
+msgspec>=0.18.6
